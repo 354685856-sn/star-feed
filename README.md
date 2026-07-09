@@ -24,9 +24,9 @@ The importer should read `.star-feed/manifest.json` first, then load the files l
 
 - Owner: `354685856-sn`
 - Total stars: `9`
-- Generated: `2026-07-09T12:53:30Z`
+- Generated: `2026-07-09T13:06:19Z`
 - Languages: TypeScript (3), Python (3), Rust (1), Unknown (1), Shell (1)
-- HTTP date: `Thu, 09 Jul 2026 12:53:30 +0000`
+- HTTP date: `Thu, 09 Jul 2026 13:06:19 +0000`
 
 ## Latest Stars
 
@@ -40,7 +40,7 @@ The importer should read `.star-feed/manifest.json` first, then load the files l
 | [coleam00/second-brain-starter](https://github.com/coleam00/second-brain-starter) | Unknown | 669 | Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant |
 | [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | Shell | 1557 | A complete starter kit for an Obsidian + Claude Code personal knowledge management system. |
 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | Python | 2524 | - |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 13781 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 13782 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
 
 ## Contract
 
