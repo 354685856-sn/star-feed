@@ -10,6 +10,14 @@ Given a repository URL:
 https://github.com/354685856-sn/star-feed
 ```
 
+Compatible importers should also accept:
+
+```text
+354685856-sn/star-feed
+git@github.com:354685856-sn/star-feed.git
+https://github.com/354685856-sn/star-feed/tree/main
+```
+
 An importer should fetch:
 
 ```text
@@ -28,6 +36,10 @@ The manifest points to the canonical files:
 Public feeds do not require a GitHub token.
 
 Private feeds may use the same structure, but the importer must authenticate with an account that can read the repository.
+
+## Network Handling
+
+Importers should retry transient raw file reads. GitHub raw responses can occasionally terminate early or return a temporary server error even when the repository and files are valid.
 
 ## Stable Fields
 

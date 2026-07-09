@@ -4,9 +4,11 @@
 from __future__ import annotations
 
 import argparse
+import http.client
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -33,13 +35,22 @@ def _request_json(url: str, token: str | None) -> tuple[Any, dict[str, str]]:
     if token:
         headers["Authorization"] = f"Bearer {token}"
     req = urllib.request.Request(url, headers=headers)
-    try:
-        with urllib.request.urlopen(req, timeout=30) as response:
-            data = json.loads(response.read().decode("utf-8"))
-            return data, dict(response.headers)
-    except urllib.error.HTTPError as exc:
-        body = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"GitHub API error {exc.code}: {body}") from exc
+    last_error: Exception | None = None
+    for attempt in range(1, 4):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as response:
+                data = json.loads(response.read().decode("utf-8"))
+                return data, dict(response.headers)
+        except urllib.error.HTTPError as exc:
+            if exc.code < 500 and exc.code != 429:
+                body = exc.read().decode("utf-8", errors="replace")
+                raise RuntimeError(f"GitHub API error {exc.code}: {body}") from exc
+            last_error = exc
+        except (TimeoutError, http.client.IncompleteRead, OSError) as exc:
+            last_error = exc
+        if attempt < 3:
+            time.sleep(0.75 * attempt)
+    raise RuntimeError(f"GitHub API request failed after retries: {last_error}") from last_error
 
 
 def _parse_next_link(link_header: str | None) -> str | None:
@@ -231,6 +242,18 @@ def write_readme(payload: dict[str, Any], repo_url: str) -> None:
         f"```text\n{repo_url}\n```",
         "",
         "The importer should read `.star-feed/manifest.json` first, then load the files listed there.",
+        "",
+        "Compatible importers should accept common GitHub repository references:",
+        "",
+        "- `https://github.com/354685856-sn/star-feed`",
+        "- `354685856-sn/star-feed`",
+        "- `git@github.com:354685856-sn/star-feed.git`",
+        "",
+        "Validate the feed contract locally:",
+        "",
+        "```bash",
+        "python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed",
+        "```",
         "",
         "## Feed Files",
         "",

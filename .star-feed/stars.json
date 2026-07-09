@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-09T13:16:41Z",
+  "generated_at": "2026-07-09T14:30:21Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -80,7 +80,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 59,
+      "stars": 60,
       "forks": 10,
       "open_issues": 5,
       "license": "NOASSERTION",
@@ -88,7 +88,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-09T04:40:01Z",
-      "updated_at": "2026-07-09T10:17:52Z",
+      "updated_at": "2026-07-09T13:52:47Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -235,7 +235,7 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 13782,
+      "stars": 13785,
       "forks": 870,
       "open_issues": 87,
       "license": "MIT",
@@ -243,7 +243,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-08T11:58:43Z",
-      "updated_at": "2026-07-09T13:05:29Z",
+      "updated_at": "2026-07-09T14:05:57Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
