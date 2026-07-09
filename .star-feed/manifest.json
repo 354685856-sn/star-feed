@@ -1,0 +1,22 @@
+{
+  "schema_version": "star-feed-manifest/v1",
+  "name": "354685856-sn's GitHub Star Feed",
+  "owner": "354685856-sn",
+  "generated_at": "2026-07-09T10:22:35Z",
+  "source": {
+    "type": "github-stars",
+    "user": "354685856-sn",
+    "url": "https://github.com/354685856-sn?tab=stars"
+  },
+  "files": {
+    "stars": ".star-feed/stars.json",
+    "categories": ".star-feed/categories.json",
+    "atom": ".star-feed/feed.xml",
+    "latest_snapshot": "snapshots/2026-07-09.md"
+  },
+  "import": {
+    "mode": "repository-link",
+    "hint": "Paste this public repository URL into a compatible importer.",
+    "repository_url": "https://github.com/354685856-sn/star-feed"
+  }
+}

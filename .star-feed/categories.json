@@ -1,0 +1,218 @@
+{
+  "schema_version": "star-feed-categories/v1",
+  "generated_at": "2026-07-09T10:22:35Z",
+  "by_language": {
+    "Python": [
+      {
+        "full_name": "crimeacs/claude-note",
+        "url": "https://github.com/crimeacs/claude-note",
+        "description": "Your AI pair programmer's memory, synced to Obsidian"
+      },
+      {
+        "full_name": "coleam00/claude-memory-compiler",
+        "url": "https://github.com/coleam00/claude-memory-compiler",
+        "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture."
+      },
+      {
+        "full_name": "heyitsnoah/claudesidian",
+        "url": "https://github.com/heyitsnoah/claudesidian",
+        "description": ""
+      }
+    ],
+    "Rust": [
+      {
+        "full_name": "yanmoais/codex-gateway-lite",
+        "url": "https://github.com/yanmoais/codex-gateway-lite",
+        "description": "Lightweight Codex Desktop gateway bootstrapper with model catalog, CDP injection, and protocol proxy support."
+      }
+    ],
+    "Shell": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      }
+    ],
+    "TypeScript": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      },
+      {
+        "full_name": "iansinnott/obsidian-claude-code-mcp",
+        "url": "https://github.com/iansinnott/obsidian-claude-code-mcp",
+        "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)"
+      },
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "Unknown": [
+      {
+        "full_name": "coleam00/second-brain-starter",
+        "url": "https://github.com/coleam00/second-brain-starter",
+        "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant"
+      }
+    ]
+  },
+  "by_topic": {
+    "ai": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "ai-agents": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      }
+    ],
+    "claude-code": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      },
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "codex": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "desktop-app": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "github-stars": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "goal-tracking": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      }
+    ],
+    "ide": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "knowledge-base": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "local-first": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "natural-language-search": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "obsidian": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      },
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "obsidian-plugin": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "pkm": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      }
+    ],
+    "productivity": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      },
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "react": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "rust": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "second-brain": [
+      {
+        "full_name": "ballred/obsidian-claude-pkm",
+        "url": "https://github.com/ballred/obsidian-claude-pkm",
+        "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
+      }
+    ],
+    "sqlite": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "tauri": [
+      {
+        "full_name": "xingranya/GitHub-Stars-AI-Tools",
+        "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
+        "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ]
+  }
+}
