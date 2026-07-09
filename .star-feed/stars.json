@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-09T10:22:35Z",
+  "generated_at": "2026-07-09T12:53:30Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -49,7 +49,7 @@
       "description": "Lightweight Codex Desktop gateway bootstrapper with model catalog, CDP injection, and protocol proxy support.",
       "language": "Rust",
       "topics": [],
-      "stars": 6,
+      "stars": 7,
       "forks": 0,
       "open_issues": 0,
       "license": "MIT",
@@ -57,7 +57,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-09T08:02:14Z",
-      "updated_at": "2026-07-09T08:02:57Z",
+      "updated_at": "2026-07-09T12:05:26Z",
       "created_at": "2026-07-07T10:05:43Z",
       "starred_at": "2026-07-09T07:09:26Z"
     },
@@ -82,7 +82,7 @@
       ],
       "stars": 59,
       "forks": 10,
-      "open_issues": 4,
+      "open_issues": 5,
       "license": "NOASSERTION",
       "homepage": "https://gsat.xingranya.cn",
       "archived": false,
@@ -208,7 +208,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2525,
+      "stars": 2524,
       "forks": 190,
       "open_issues": 11,
       "license": "MIT",
@@ -216,7 +216,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-07-09T01:21:29Z",
+      "updated_at": "2026-07-09T12:52:09Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -235,7 +235,7 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 13779,
+      "stars": 13781,
       "forks": 870,
       "open_issues": 87,
       "license": "MIT",
@@ -243,7 +243,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-08T11:58:43Z",
-      "updated_at": "2026-07-09T07:55:21Z",
+      "updated_at": "2026-07-09T11:48:21Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
