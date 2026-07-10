@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-10T09:52:37Z",
+  "generated_at": "2026-07-10T14:50:58Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -56,8 +56,8 @@
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-07-10T09:51:53Z",
-      "updated_at": "2026-07-10T09:52:04Z",
+      "pushed_at": "2026-07-10T10:45:05Z",
+      "updated_at": "2026-07-10T10:45:14Z",
       "created_at": "2026-07-07T10:05:43Z",
       "starred_at": "2026-07-09T07:09:26Z"
     },
@@ -80,15 +80,15 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 62,
+      "stars": 63,
       "forks": 11,
       "open_issues": 6,
       "license": "NOASSERTION",
       "homepage": "https://gsat.xingranya.cn",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-07-09T14:31:42Z",
-      "updated_at": "2026-07-10T02:35:31Z",
+      "pushed_at": "2026-07-10T11:40:29Z",
+      "updated_at": "2026-07-10T11:40:33Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -160,7 +160,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 673,
+      "stars": 674,
       "forks": 154,
       "open_issues": 1,
       "license": null,
@@ -168,7 +168,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-07-10T04:14:42Z",
+      "updated_at": "2026-07-10T14:10:49Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -188,7 +188,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1558,
+      "stars": 1559,
       "forks": 104,
       "open_issues": 11,
       "license": "MIT",
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-09T15:33:31Z",
+      "updated_at": "2026-07-10T12:44:49Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -208,7 +208,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2527,
+      "stars": 2528,
       "forks": 191,
       "open_issues": 11,
       "license": "MIT",
@@ -216,7 +216,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-07-10T00:14:33Z",
+      "updated_at": "2026-07-10T12:54:36Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -235,15 +235,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 13809,
+      "stars": 13817,
       "forks": 871,
-      "open_issues": 89,
+      "open_issues": 91,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-10T08:58:37Z",
-      "updated_at": "2026-07-10T09:34:47Z",
+      "updated_at": "2026-07-10T12:57:00Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }

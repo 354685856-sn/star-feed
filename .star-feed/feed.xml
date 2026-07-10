@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>354685856-sn's GitHub Stars</title><id>tag:github.com,354685856-sn:stars</id><updated>2026-07-10T09:52:37Z</updated><link href="https://github.com/354685856-sn?tab=stars" /><entry><title>yanmoais/codex-gateway-lite</title><id>https://github.com/yanmoais/codex-gateway-lite</id><updated>2026-07-09T07:09:26Z</updated><link href="https://github.com/yanmoais/codex-gateway-lite" /><summary>Lightweight Codex Desktop gateway bootstrapper with model catalog, CDP injection, and protocol proxy support.
+<feed xmlns="http://www.w3.org/2005/Atom"><title>354685856-sn's GitHub Stars</title><id>tag:github.com,354685856-sn:stars</id><updated>2026-07-10T14:50:58Z</updated><link href="https://github.com/354685856-sn?tab=stars" /><entry><title>yanmoais/codex-gateway-lite</title><id>https://github.com/yanmoais/codex-gateway-lite</id><updated>2026-07-09T07:09:26Z</updated><link href="https://github.com/yanmoais/codex-gateway-lite" /><summary>Lightweight Codex Desktop gateway bootstrapper with model catalog, CDP injection, and protocol proxy support.
 
 Language: Rust | Stars: 7</summary></entry><entry><title>xingranya/GitHub-Stars-AI-Tools</title><id>https://github.com/xingranya/GitHub-Stars-AI-Tools</id><updated>2026-07-09T07:07:04Z</updated><link href="https://github.com/xingranya/GitHub-Stars-AI-Tools" /><summary>本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars.
 
-Language: TypeScript | Stars: 62</summary></entry><entry><title>crimeacs/claude-note</title><id>https://github.com/crimeacs/claude-note</id><updated>2026-04-08T09:14:41Z</updated><link href="https://github.com/crimeacs/claude-note" /><summary>Your AI pair programmer's memory, synced to Obsidian
+Language: TypeScript | Stars: 63</summary></entry><entry><title>crimeacs/claude-note</title><id>https://github.com/crimeacs/claude-note</id><updated>2026-04-08T09:14:41Z</updated><link href="https://github.com/crimeacs/claude-note" /><summary>Your AI pair programmer's memory, synced to Obsidian
 
 Language: Python | Stars: 66</summary></entry><entry><title>iansinnott/obsidian-claude-code-mcp</title><id>https://github.com/iansinnott/obsidian-claude-code-mcp</id><updated>2026-04-08T09:14:38Z</updated><link href="https://github.com/iansinnott/obsidian-claude-code-mcp" /><summary>Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)
 
@@ -11,10 +11,10 @@ Language: TypeScript | Stars: 313</summary></entry><entry><title>coleam00/claude
 
 Language: Python | Stars: 1237</summary></entry><entry><title>coleam00/second-brain-starter</title><id>https://github.com/coleam00/second-brain-starter</id><updated>2026-04-08T09:14:32Z</updated><link href="https://github.com/coleam00/second-brain-starter" /><summary>Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant
 
-Language: Unknown | Stars: 673</summary></entry><entry><title>ballred/obsidian-claude-pkm</title><id>https://github.com/ballred/obsidian-claude-pkm</id><updated>2026-04-08T09:14:29Z</updated><link href="https://github.com/ballred/obsidian-claude-pkm" /><summary>A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
+Language: Unknown | Stars: 674</summary></entry><entry><title>ballred/obsidian-claude-pkm</title><id>https://github.com/ballred/obsidian-claude-pkm</id><updated>2026-04-08T09:14:29Z</updated><link href="https://github.com/ballred/obsidian-claude-pkm" /><summary>A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
 
-Language: Shell | Stars: 1558</summary></entry><entry><title>heyitsnoah/claudesidian</title><id>https://github.com/heyitsnoah/claudesidian</id><updated>2026-04-08T09:14:26Z</updated><link href="https://github.com/heyitsnoah/claudesidian" /><summary>
+Language: Shell | Stars: 1559</summary></entry><entry><title>heyitsnoah/claudesidian</title><id>https://github.com/heyitsnoah/claudesidian</id><updated>2026-04-08T09:14:26Z</updated><link href="https://github.com/heyitsnoah/claudesidian" /><summary>
 
-Language: Python | Stars: 2527</summary></entry><entry><title>YishenTu/claudian</title><id>https://github.com/YishenTu/claudian</id><updated>2026-04-08T09:14:22Z</updated><link href="https://github.com/YishenTu/claudian" /><summary>An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
+Language: Python | Stars: 2528</summary></entry><entry><title>YishenTu/claudian</title><id>https://github.com/YishenTu/claudian</id><updated>2026-04-08T09:14:22Z</updated><link href="https://github.com/YishenTu/claudian" /><summary>An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 
-Language: TypeScript | Stars: 13809</summary></entry></feed>
+Language: TypeScript | Stars: 13817</summary></entry></feed>
