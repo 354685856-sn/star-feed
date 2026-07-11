@@ -1,8 +1,13 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-07-11T03:41:32Z",
+  "generated_at": "2026-07-11T08:14:24Z",
   "by_language": {
     "Python": [
+      {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
+      },
       {
         "full_name": "crimeacs/claude-note",
         "url": "https://github.com/crimeacs/claude-note",
@@ -59,6 +64,13 @@
     ]
   },
   "by_topic": {
+    "agent-workflows": [
+      {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
+      }
+    ],
     "ai": [
       {
         "full_name": "xingranya/GitHub-Stars-AI-Tools",
@@ -67,6 +79,11 @@
       }
     ],
     "ai-agents": [
+      {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
+      },
       {
         "full_name": "ballred/obsidian-claude-pkm",
         "url": "https://github.com/ballred/obsidian-claude-pkm",
@@ -87,6 +104,11 @@
     ],
     "codex": [
       {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
+      },
+      {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
         "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
@@ -97,6 +119,13 @@
         "full_name": "xingranya/GitHub-Stars-AI-Tools",
         "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
         "description": "本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars."
+      }
+    ],
+    "developer-tools": [
+      {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
       }
     ],
     "github-stars": [
@@ -177,6 +206,13 @@
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
         "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "prompt-engineering": [
+      {
+        "full_name": "jremick/codexmaxxing",
+        "url": "https://github.com/jremick/codexmaxxing",
+        "description": "Guides and resources for getting more out of Codex in agentic work"
       }
     ],
     "react": [
