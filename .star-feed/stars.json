@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-11T13:53:42Z",
+  "generated_at": "2026-07-11T19:31:01Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -169,7 +169,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1239,
+      "stars": 1240,
       "forks": 312,
       "open_issues": 19,
       "license": null,
@@ -177,7 +177,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-07-11T04:24:15Z",
+      "updated_at": "2026-07-11T17:14:15Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -189,7 +189,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 675,
+      "stars": 676,
       "forks": 154,
       "open_issues": 1,
       "license": null,
@@ -197,7 +197,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-07-10T20:00:20Z",
+      "updated_at": "2026-07-11T14:41:28Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -217,7 +217,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1560,
+      "stars": 1561,
       "forks": 104,
       "open_issues": 11,
       "license": "MIT",
@@ -225,7 +225,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-11T08:44:59Z",
+      "updated_at": "2026-07-11T17:30:05Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -264,15 +264,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 13845,
+      "stars": 13856,
       "forks": 873,
-      "open_issues": 88,
+      "open_issues": 92,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-07-11T06:19:20Z",
-      "updated_at": "2026-07-11T13:01:01Z",
+      "pushed_at": "2026-07-11T19:13:52Z",
+      "updated_at": "2026-07-11T18:51:44Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
