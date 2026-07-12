@@ -2,7 +2,7 @@
   "schema_version": "star-feed-manifest/v1",
   "name": "354685856-sn's GitHub Star Feed",
   "owner": "354685856-sn",
-  "generated_at": "2026-07-11T19:31:01Z",
+  "generated_at": "2026-07-12T03:56:11Z",
   "source": {
     "type": "github-stars",
     "user": "354685856-sn",
@@ -12,7 +12,7 @@
     "stars": ".star-feed/stars.json",
     "categories": ".star-feed/categories.json",
     "atom": ".star-feed/feed.xml",
-    "latest_snapshot": "snapshots/2026-07-11.md"
+    "latest_snapshot": "snapshots/2026-07-12.md"
   },
   "import": {
     "mode": "repository-link",
