@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-13T09:47:19Z",
+  "generated_at": "2026-07-13T15:11:04Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -109,7 +109,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 67,
+      "stars": 68,
       "forks": 11,
       "open_issues": 6,
       "license": "NOASSERTION",
@@ -117,7 +117,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-10T11:40:29Z",
-      "updated_at": "2026-07-12T22:46:22Z",
+      "updated_at": "2026-07-13T10:24:43Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -189,7 +189,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 676,
+      "stars": 678,
       "forks": 154,
       "open_issues": 1,
       "license": null,
@@ -197,7 +197,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-07-12T14:13:45Z",
+      "updated_at": "2026-07-13T13:32:53Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -217,7 +217,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1560,
+      "stars": 1561,
       "forks": 104,
       "open_issues": 11,
       "license": "MIT",
@@ -225,7 +225,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-13T00:08:28Z",
+      "updated_at": "2026-07-13T12:07:21Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -237,7 +237,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2534,
+      "stars": 2535,
       "forks": 193,
       "open_issues": 11,
       "license": "MIT",
@@ -245,7 +245,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-07-12T16:07:42Z",
+      "updated_at": "2026-07-13T12:07:44Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -264,15 +264,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 13960,
-      "forks": 880,
+      "stars": 13978,
+      "forks": 881,
       "open_issues": 92,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-13T08:37:27Z",
-      "updated_at": "2026-07-13T09:42:04Z",
+      "updated_at": "2026-07-13T15:08:51Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
