@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-07-14T08:27:27Z",
+  "generated_at": "2026-07-14T14:13:07Z",
   "by_language": {
     "Python": [
       {
@@ -22,13 +22,6 @@
         "full_name": "heyitsnoah/claudesidian",
         "url": "https://github.com/heyitsnoah/claudesidian",
         "description": ""
-      }
-    ],
-    "Rust": [
-      {
-        "full_name": "yanmoais/codex-gateway-lite",
-        "url": "https://github.com/yanmoais/codex-gateway-lite",
-        "description": "Lightweight Codex Desktop gateway bootstrapper with model catalog, CDP injection, and protocol proxy support."
       }
     ],
     "Shell": [
