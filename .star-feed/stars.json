@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-19T08:32:18Z",
+  "generated_at": "2026-07-19T13:52:36Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -168,7 +168,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 685,
+      "stars": 686,
       "forks": 156,
       "open_issues": 1,
       "license": null,
@@ -176,7 +176,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-07-19T07:39:48Z",
+      "updated_at": "2026-07-19T10:21:53Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -196,7 +196,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1577,
+      "stars": 1579,
       "forks": 106,
       "open_issues": 11,
       "license": "MIT",
@@ -204,7 +204,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-19T08:25:54Z",
+      "updated_at": "2026-07-19T13:47:18Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -216,7 +216,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2547,
+      "stars": 2548,
       "forks": 195,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-07-19T01:16:23Z",
+      "updated_at": "2026-07-19T13:00:43Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -243,7 +243,7 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14170,
+      "stars": 14183,
       "forks": 907,
       "open_issues": 102,
       "license": "MIT",
@@ -251,7 +251,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-18T06:06:14Z",
-      "updated_at": "2026-07-19T07:40:37Z",
+      "updated_at": "2026-07-19T13:48:16Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
