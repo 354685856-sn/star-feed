@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-20T14:32:46Z",
+  "generated_at": "2026-07-20T19:55:43Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -196,15 +196,15 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1662,
-      "forks": 111,
+      "stars": 1678,
+      "forks": 112,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-20T14:30:43Z",
+      "updated_at": "2026-07-20T19:32:49Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -243,7 +243,7 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14210,
+      "stars": 14213,
       "forks": 912,
       "open_issues": 103,
       "license": "MIT",
@@ -251,7 +251,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-20T01:55:30Z",
-      "updated_at": "2026-07-20T14:13:37Z",
+      "updated_at": "2026-07-20T18:59:30Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
