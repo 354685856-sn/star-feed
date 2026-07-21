@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-21T03:43:38Z",
+  "generated_at": "2026-07-21T08:43:41Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -96,7 +96,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-15T17:11:35Z",
-      "updated_at": "2026-07-19T04:59:02Z",
+      "updated_at": "2026-07-21T05:08:18Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -129,7 +129,7 @@
       "language": "TypeScript",
       "topics": [],
       "stars": 316,
-      "forks": 51,
+      "forks": 52,
       "open_issues": 19,
       "license": "0BSD",
       "homepage": "",
@@ -148,7 +148,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1248,
+      "stars": 1249,
       "forks": 312,
       "open_issues": 20,
       "license": null,
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-07-20T13:23:39Z",
+      "updated_at": "2026-07-21T04:29:51Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -196,7 +196,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1691,
+      "stars": 1698,
       "forks": 113,
       "open_issues": 11,
       "license": "MIT",
@@ -204,7 +204,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-21T03:19:03Z",
+      "updated_at": "2026-07-21T08:03:16Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -243,15 +243,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14216,
+      "stars": 14219,
       "forks": 912,
-      "open_issues": 102,
+      "open_issues": 101,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-07-21T03:41:50Z",
-      "updated_at": "2026-07-21T03:25:22Z",
+      "pushed_at": "2026-07-21T07:27:26Z",
+      "updated_at": "2026-07-21T08:32:33Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
