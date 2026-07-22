@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-21T19:50:44Z",
+  "generated_at": "2026-07-22T03:44:58Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -128,7 +128,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 316,
+      "stars": 317,
       "forks": 52,
       "open_issues": 19,
       "license": "0BSD",
@@ -136,7 +136,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-07-20T13:21:36Z",
+      "updated_at": "2026-07-21T23:30:38Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -149,7 +149,7 @@
       "language": "Python",
       "topics": [],
       "stars": 1251,
-      "forks": 312,
+      "forks": 313,
       "open_issues": 20,
       "license": null,
       "homepage": "",
@@ -196,15 +196,15 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1715,
-      "forks": 115,
+      "stars": 1721,
+      "forks": 114,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-21T19:04:37Z",
+      "updated_at": "2026-07-22T02:48:52Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -243,15 +243,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14227,
+      "stars": 14237,
       "forks": 913,
-      "open_issues": 99,
+      "open_issues": 96,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-07-21T07:27:26Z",
-      "updated_at": "2026-07-21T16:20:53Z",
+      "pushed_at": "2026-07-22T03:04:55Z",
+      "updated_at": "2026-07-22T03:28:47Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
