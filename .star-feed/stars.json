@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-26T03:54:20Z",
+  "generated_at": "2026-07-26T08:38:35Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -148,7 +148,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1257,
+      "stars": 1258,
       "forks": 315,
       "open_issues": 21,
       "license": null,
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-07-25T22:21:27Z",
+      "updated_at": "2026-07-26T08:08:42Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -217,7 +217,7 @@
       "language": "Python",
       "topics": [],
       "stars": 2550,
-      "forks": 195,
+      "forks": 194,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
@@ -243,15 +243,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14334,
+      "stars": 14338,
       "forks": 922,
-      "open_issues": 82,
+      "open_issues": 83,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-25T17:54:14Z",
-      "updated_at": "2026-07-26T02:53:21Z",
+      "updated_at": "2026-07-26T07:31:26Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
