@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-07-26T19:33:24Z",
+  "generated_at": "2026-07-27T04:01:57Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -149,7 +149,7 @@
       "language": "Python",
       "topics": [],
       "stars": 1258,
-      "forks": 316,
+      "forks": 315,
       "open_issues": 21,
       "license": null,
       "homepage": "",
@@ -168,7 +168,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 699,
+      "stars": 700,
       "forks": 157,
       "open_issues": 1,
       "license": null,
@@ -176,7 +176,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-07-26T13:01:19Z",
+      "updated_at": "2026-07-26T19:58:09Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -196,7 +196,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1727,
+      "stars": 1728,
       "forks": 115,
       "open_issues": 11,
       "license": "MIT",
@@ -204,7 +204,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-07-24T07:29:20Z",
+      "updated_at": "2026-07-27T02:12:52Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -243,15 +243,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14344,
-      "forks": 922,
-      "open_issues": 83,
+      "stars": 14351,
+      "forks": 923,
+      "open_issues": 82,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-26T15:22:29Z",
-      "updated_at": "2026-07-26T17:26:30Z",
+      "updated_at": "2026-07-27T03:32:01Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
