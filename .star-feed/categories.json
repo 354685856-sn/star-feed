@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-08-03T03:53:16Z",
+  "generated_at": "2026-08-03T10:04:30Z",
   "by_language": {
     "Python": [
       {
@@ -32,6 +32,11 @@
       }
     ],
     "TypeScript": [
+      {
+        "full_name": "DifTorHeSmushma/oracle-speakflow",
+        "url": "https://github.com/DifTorHeSmushma/oracle-speakflow",
+        "description": "Hands-free speech-to-text that pastes where you type — for admins, teachers, writers, developers, and anyone who dictates daily. Windows shipped; macOS CI beta; Linux CI package. MIT."
+      },
       {
         "full_name": "xingranya/GitHub-Stars-AI-Tools",
         "url": "https://github.com/xingranya/GitHub-Stars-AI-Tools",
