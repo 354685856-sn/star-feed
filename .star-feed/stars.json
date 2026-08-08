@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-08T13:11:09Z",
+  "generated_at": "2026-08-08T18:57:29Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -188,7 +188,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 729,
+      "stars": 730,
       "forks": 161,
       "open_issues": 1,
       "license": null,
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-08-08T04:46:10Z",
+      "updated_at": "2026-08-08T18:28:58Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -216,15 +216,15 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1738,
-      "forks": 118,
+      "stars": 1739,
+      "forks": 119,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-08-07T22:40:56Z",
+      "updated_at": "2026-08-08T13:43:57Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -236,7 +236,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2559,
+      "stars": 2560,
       "forks": 194,
       "open_issues": 11,
       "license": "MIT",
@@ -244,7 +244,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-08-07T21:03:19Z",
+      "updated_at": "2026-08-08T17:33:54Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14626,
+      "stars": 14628,
       "forks": 948,
-      "open_issues": 79,
+      "open_issues": 80,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-08-08T02:51:38Z",
-      "updated_at": "2026-08-08T12:44:12Z",
+      "pushed_at": "2026-08-08T17:12:24Z",
+      "updated_at": "2026-08-08T17:12:26Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
