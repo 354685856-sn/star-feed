@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-08T18:57:29Z",
+  "generated_at": "2026-08-09T02:27:25Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -148,7 +148,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 328,
+      "stars": 329,
       "forks": 53,
       "open_issues": 19,
       "license": "0BSD",
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-08-04T03:16:12Z",
+      "updated_at": "2026-08-08T23:28:32Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -188,7 +188,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 730,
+      "stars": 731,
       "forks": 161,
       "open_issues": 1,
       "license": null,
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-08-08T18:28:58Z",
+      "updated_at": "2026-08-08T22:41:06Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14628,
-      "forks": 948,
+      "stars": 14632,
+      "forks": 947,
       "open_issues": 80,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-08-08T17:12:24Z",
-      "updated_at": "2026-08-08T17:12:26Z",
+      "pushed_at": "2026-08-08T20:10:47Z",
+      "updated_at": "2026-08-09T01:48:37Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
