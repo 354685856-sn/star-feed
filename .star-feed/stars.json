@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-09T02:27:25Z",
+  "generated_at": "2026-08-09T07:14:56Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -108,7 +108,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 91,
+      "stars": 92,
       "forks": 17,
       "open_issues": 1,
       "license": "NOASSERTION",
@@ -116,7 +116,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-15T17:11:35Z",
-      "updated_at": "2026-08-06T09:28:38Z",
+      "updated_at": "2026-08-09T07:11:44Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -148,7 +148,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 329,
+      "stars": 330,
       "forks": 53,
       "open_issues": 19,
       "license": "0BSD",
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-08-08T23:28:32Z",
+      "updated_at": "2026-08-09T04:31:29Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -216,7 +216,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1739,
+      "stars": 1740,
       "forks": 119,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-08-08T13:43:57Z",
+      "updated_at": "2026-08-09T05:34:04Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14632,
-      "forks": 947,
-      "open_issues": 80,
+      "stars": 14639,
+      "forks": 948,
+      "open_issues": 79,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-08-08T20:10:47Z",
-      "updated_at": "2026-08-09T01:48:37Z",
+      "pushed_at": "2026-08-09T06:27:34Z",
+      "updated_at": "2026-08-09T06:27:37Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
