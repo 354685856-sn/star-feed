@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-11T13:41:30Z",
+  "generated_at": "2026-08-11T19:18:38Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -148,7 +148,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 334,
+      "stars": 335,
       "forks": 55,
       "open_issues": 19,
       "license": "0BSD",
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-08-10T06:31:05Z",
+      "updated_at": "2026-08-11T15:19:18Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -189,14 +189,14 @@
       "language": "Unknown",
       "topics": [],
       "stars": 733,
-      "forks": 163,
+      "forks": 162,
       "open_issues": 1,
       "license": null,
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-08-10T09:04:40Z",
+      "updated_at": "2026-08-11T15:33:55Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14696,
-      "forks": 950,
+      "stars": 14701,
+      "forks": 951,
       "open_issues": 72,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-08-10T17:03:11Z",
-      "updated_at": "2026-08-11T11:15:57Z",
+      "updated_at": "2026-08-11T18:24:54Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
