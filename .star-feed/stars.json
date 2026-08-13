@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-12T19:19:08Z",
+  "generated_at": "2026-08-13T02:46:11Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -148,7 +148,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 335,
+      "stars": 336,
       "forks": 55,
       "open_issues": 19,
       "license": "0BSD",
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-08-11T15:19:18Z",
+      "updated_at": "2026-08-13T02:08:14Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -216,7 +216,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1745,
+      "stars": 1759,
       "forks": 120,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-08-12T19:17:58Z",
+      "updated_at": "2026-08-13T02:37:25Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -236,15 +236,15 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2563,
-      "forks": 194,
+      "stars": 2564,
+      "forks": 193,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-08-12T17:29:32Z",
+      "updated_at": "2026-08-12T20:22:41Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14729,
-      "forks": 952,
-      "open_issues": 75,
+      "stars": 14737,
+      "forks": 955,
+      "open_issues": 73,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-08-12T18:19:25Z",
-      "updated_at": "2026-08-12T19:05:05Z",
+      "updated_at": "2026-08-13T02:40:41Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
