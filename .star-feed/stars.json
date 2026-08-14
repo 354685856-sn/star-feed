@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-08-14T02:44:56Z",
+  "generated_at": "2026-08-14T07:49:02Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -216,7 +216,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1796,
+      "stars": 1803,
       "forks": 123,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-08-14T01:42:32Z",
+      "updated_at": "2026-08-14T06:58:18Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -236,7 +236,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2565,
+      "stars": 2566,
       "forks": 193,
       "open_issues": 11,
       "license": "MIT",
@@ -244,7 +244,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-08-14T00:52:33Z",
+      "updated_at": "2026-08-14T07:29:47Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 14764,
+      "stars": 14769,
       "forks": 957,
-      "open_issues": 75,
+      "open_issues": 74,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-08-12T18:19:25Z",
-      "updated_at": "2026-08-14T00:28:26Z",
+      "pushed_at": "2026-08-14T03:45:02Z",
+      "updated_at": "2026-08-14T07:00:29Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
