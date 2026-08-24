@@ -36,9 +36,9 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 
 - Owner: `354685856-sn`
 - Total stars: `10`
-- Generated: `2026-08-24T13:11:35Z`
+- Generated: `2026-08-24T18:57:46Z`
 - Languages: TypeScript (4), Python (4), Unknown (1), Shell (1)
-- HTTP date: `Mon, 24 Aug 2026 13:11:35 +0000`
+- HTTP date: `Mon, 24 Aug 2026 18:57:46 +0000`
 
 ## Latest Stars
 
@@ -50,10 +50,10 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 | [crimeacs/claude-note](https://github.com/crimeacs/claude-note) | Python | 67 | Your AI pair programmer's memory, synced to Obsidian |
 | [iansinnott/obsidian-claude-code-mcp](https://github.com/iansinnott/obsidian-claude-code-mcp) | TypeScript | 344 | Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP) |
 | [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) | Python | 1280 | Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture. |
-| [coleam00/second-brain-starter](https://github.com/coleam00/second-brain-starter) | Unknown | 752 | Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant |
-| [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | Shell | 1845 | A complete starter kit for an Obsidian + Claude Code personal knowledge management system. |
+| [coleam00/second-brain-starter](https://github.com/coleam00/second-brain-starter) | Unknown | 751 | Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant |
+| [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | Shell | 1846 | A complete starter kit for an Obsidian + Claude Code personal knowledge management system. |
 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | Python | 2572 | - |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 14946 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 14950 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
 
 ## Contract
 
