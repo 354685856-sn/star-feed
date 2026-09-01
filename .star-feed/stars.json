@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-01T05:06:02Z",
+  "generated_at": "2026-09-01T11:37:50Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -168,7 +168,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1284,
+      "stars": 1283,
       "forks": 329,
       "open_issues": 23,
       "license": null,
@@ -176,7 +176,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-08-29T01:48:43Z",
+      "updated_at": "2026-09-01T09:16:23Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -188,7 +188,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 757,
+      "stars": 759,
       "forks": 169,
       "open_issues": 1,
       "license": null,
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-08-31T14:29:46Z",
+      "updated_at": "2026-09-01T09:00:09Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 15088,
-      "forks": 991,
-      "open_issues": 68,
+      "stars": 15091,
+      "forks": 993,
+      "open_issues": 69,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-01T03:13:55Z",
-      "updated_at": "2026-09-01T02:47:28Z",
+      "pushed_at": "2026-09-01T08:09:48Z",
+      "updated_at": "2026-09-01T11:05:12Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
