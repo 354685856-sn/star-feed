@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-01T11:37:50Z",
+  "generated_at": "2026-09-01T16:38:46Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -237,7 +237,7 @@
       "language": "Python",
       "topics": [],
       "stars": 2578,
-      "forks": 193,
+      "forks": 194,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 15091,
-      "forks": 993,
-      "open_issues": 69,
+      "stars": 15096,
+      "forks": 994,
+      "open_issues": 72,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-01T08:09:48Z",
-      "updated_at": "2026-09-01T11:05:12Z",
+      "pushed_at": "2026-09-01T14:29:20Z",
+      "updated_at": "2026-09-01T15:21:40Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
