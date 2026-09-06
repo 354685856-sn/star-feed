@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-06T04:36:52Z",
+  "generated_at": "2026-09-06T10:54:41Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -188,7 +188,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 767,
+      "stars": 768,
       "forks": 168,
       "open_issues": 1,
       "license": null,
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-09-05T18:59:52Z",
+      "updated_at": "2026-09-06T05:26:51Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -216,7 +216,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1854,
+      "stars": 1856,
       "forks": 125,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-09-03T03:44:02Z",
+      "updated_at": "2026-09-06T08:57:22Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 15175,
-      "forks": 1004,
-      "open_issues": 76,
+      "stars": 15181,
+      "forks": 1005,
+      "open_issues": 73,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-05T17:48:27Z",
-      "updated_at": "2026-09-06T03:31:34Z",
+      "pushed_at": "2026-09-06T10:15:12Z",
+      "updated_at": "2026-09-06T10:30:28Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
