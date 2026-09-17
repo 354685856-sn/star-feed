@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-17T16:58:45Z",
+  "generated_at": "2026-09-17T21:21:10Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -108,7 +108,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 107,
+      "stars": 108,
       "forks": 14,
       "open_issues": 1,
       "license": "NOASSERTION",
@@ -116,7 +116,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-15T17:11:35Z",
-      "updated_at": "2026-09-13T11:19:28Z",
+      "updated_at": "2026-09-17T16:59:45Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -168,7 +168,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1292,
+      "stars": 1293,
       "forks": 324,
       "open_issues": 23,
       "license": null,
@@ -176,7 +176,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-09-17T01:03:59Z",
+      "updated_at": "2026-09-17T19:43:06Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -216,7 +216,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1866,
+      "stars": 1867,
       "forks": 124,
       "open_issues": 11,
       "license": "MIT",
@@ -224,7 +224,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-09-17T01:00:24Z",
+      "updated_at": "2026-09-17T21:05:38Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 15358,
-      "forks": 1027,
-      "open_issues": 82,
+      "stars": 15362,
+      "forks": 1028,
+      "open_issues": 83,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-09-17T15:02:09Z",
-      "updated_at": "2026-09-17T16:22:52Z",
+      "updated_at": "2026-09-17T21:16:07Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
