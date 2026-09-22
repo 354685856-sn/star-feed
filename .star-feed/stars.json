@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-22T16:56:19Z",
+  "generated_at": "2026-09-22T21:17:09Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -148,7 +148,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 355,
+      "stars": 356,
       "forks": 55,
       "open_issues": 19,
       "license": "0BSD",
@@ -156,7 +156,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-09-20T10:39:38Z",
+      "updated_at": "2026-09-22T17:35:42Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -188,7 +188,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 787,
+      "stars": 788,
       "forks": 175,
       "open_issues": 1,
       "license": null,
@@ -196,7 +196,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-09-22T15:35:46Z",
+      "updated_at": "2026-09-22T18:30:38Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -236,7 +236,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2583,
+      "stars": 2585,
       "forks": 193,
       "open_issues": 11,
       "license": "MIT",
@@ -244,7 +244,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-09-18T19:40:19Z",
+      "updated_at": "2026-09-22T17:36:16Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -263,15 +263,15 @@
         "obsidian-plugin",
         "productivity"
       ],
-      "stars": 15464,
-      "forks": 1036,
+      "stars": 15466,
+      "forks": 1037,
       "open_issues": 77,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-22T16:07:28Z",
-      "updated_at": "2026-09-22T16:07:31Z",
+      "pushed_at": "2026-09-22T17:53:27Z",
+      "updated_at": "2026-09-22T17:53:30Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
