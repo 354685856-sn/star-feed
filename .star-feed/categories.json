@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-09-25T17:09:26Z",
+  "generated_at": "2026-09-25T21:33:32Z",
   "by_language": {
     "Python": [
       {
@@ -140,6 +140,13 @@
         "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
       }
     ],
+    "grok": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
     "ide": [
       {
         "full_name": "YishenTu/claudian",
@@ -181,6 +188,20 @@
       }
     ],
     "obsidian-plugin": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "opencode": [
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+      }
+    ],
+    "pi": [
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",

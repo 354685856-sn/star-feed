@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-25T17:09:26Z",
+  "generated_at": "2026-09-25T21:33:32Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -38,8 +38,11 @@
       "goal-tracking": 1,
       "pkm": 1,
       "second-brain": 1,
+      "grok": 1,
       "ide": 1,
-      "obsidian-plugin": 1
+      "obsidian-plugin": 1,
+      "opencode": 1,
+      "pi": 1
     }
   },
   "stars": [
@@ -258,20 +261,23 @@
       "topics": [
         "claude-code",
         "codex",
+        "grok",
         "ide",
         "obsidian",
         "obsidian-plugin",
+        "opencode",
+        "pi",
         "productivity"
       ],
-      "stars": 15502,
+      "stars": 15503,
       "forks": 1043,
       "open_issues": 73,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-25T15:39:22Z",
-      "updated_at": "2026-09-25T15:29:42Z",
+      "pushed_at": "2026-09-25T20:06:24Z",
+      "updated_at": "2026-09-25T20:33:10Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
