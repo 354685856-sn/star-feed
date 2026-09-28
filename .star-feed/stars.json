@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-28T13:52:08Z",
+  "generated_at": "2026-09-28T23:15:07Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -171,7 +171,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1292,
+      "stars": 1293,
       "forks": 324,
       "open_issues": 23,
       "license": null,
@@ -179,7 +179,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-09-26T07:52:57Z",
+      "updated_at": "2026-09-28T20:35:12Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -239,7 +239,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2588,
+      "stars": 2589,
       "forks": 192,
       "open_issues": 11,
       "license": "MIT",
@@ -247,7 +247,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-09-26T11:15:27Z",
+      "updated_at": "2026-09-28T22:02:51Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15520,
-      "forks": 1047,
-      "open_issues": 70,
+      "stars": 15522,
+      "forks": 1048,
+      "open_issues": 68,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-28T10:27:27Z",
-      "updated_at": "2026-09-28T12:19:46Z",
+      "pushed_at": "2026-09-28T16:41:35Z",
+      "updated_at": "2026-09-28T17:05:48Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
