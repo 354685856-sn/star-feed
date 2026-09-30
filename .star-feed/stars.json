@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-09-30T12:32:38Z",
+  "generated_at": "2026-09-30T22:14:19Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -151,7 +151,7 @@
       "description": "Connect Claude Code and other AI tools to your Obsidian notes using Model Context Protocol (MCP)",
       "language": "TypeScript",
       "topics": [],
-      "stars": 355,
+      "stars": 356,
       "forks": 55,
       "open_issues": 19,
       "license": "0BSD",
@@ -159,7 +159,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2025-06-27T01:35:19Z",
-      "updated_at": "2026-09-29T23:19:18Z",
+      "updated_at": "2026-09-30T20:33:35Z",
       "created_at": "2025-06-18T04:59:21Z",
       "starred_at": "2026-04-08T09:14:38Z"
     },
@@ -199,7 +199,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-09-30T10:14:40Z",
+      "updated_at": "2026-09-30T20:09:46Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -219,7 +219,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1874,
+      "stars": 1875,
       "forks": 126,
       "open_issues": 11,
       "license": "MIT",
@@ -227,7 +227,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-09-30T00:09:27Z",
+      "updated_at": "2026-09-30T19:09:47Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -239,7 +239,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2591,
+      "stars": 2590,
       "forks": 192,
       "open_issues": 11,
       "license": "MIT",
@@ -247,7 +247,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-09-29T09:13:04Z",
+      "updated_at": "2026-09-30T12:34:02Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15547,
-      "forks": 1049,
+      "stars": 15549,
+      "forks": 1050,
       "open_issues": 69,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-09-30T12:30:00Z",
-      "updated_at": "2026-09-30T11:07:34Z",
+      "pushed_at": "2026-09-30T18:33:41Z",
+      "updated_at": "2026-09-30T20:41:28Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
