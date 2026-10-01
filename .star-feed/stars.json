@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-01T13:11:33Z",
+  "generated_at": "2026-10-01T22:40:01Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -172,7 +172,7 @@
       "language": "Python",
       "topics": [],
       "stars": 1295,
-      "forks": 325,
+      "forks": 326,
       "open_issues": 24,
       "license": null,
       "homepage": "",
@@ -191,7 +191,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 792,
+      "stars": 793,
       "forks": 175,
       "open_issues": 1,
       "license": null,
@@ -199,7 +199,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-09-30T20:09:46Z",
+      "updated_at": "2026-10-01T17:51:24Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -239,7 +239,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2591,
+      "stars": 2594,
       "forks": 192,
       "open_issues": 11,
       "license": "MIT",
@@ -247,7 +247,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-10-01T11:11:27Z",
+      "updated_at": "2026-10-01T20:22:03Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15557,
-      "forks": 1051,
+      "stars": 15560,
+      "forks": 1052,
       "open_issues": 68,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-01T09:43:08Z",
-      "updated_at": "2026-10-01T12:33:56Z",
+      "pushed_at": "2026-10-01T18:17:35Z",
+      "updated_at": "2026-10-01T18:17:38Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
