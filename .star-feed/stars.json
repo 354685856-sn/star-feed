@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-08T13:26:53Z",
+  "generated_at": "2026-10-08T23:19:48Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -171,7 +171,7 @@
       "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
       "language": "Python",
       "topics": [],
-      "stars": 1297,
+      "stars": 1299,
       "forks": 328,
       "open_issues": 24,
       "license": null,
@@ -179,7 +179,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-06T19:46:57Z",
-      "updated_at": "2026-10-04T03:45:05Z",
+      "updated_at": "2026-10-08T21:19:22Z",
       "created_at": "2026-04-06T14:28:45Z",
       "starred_at": "2026-04-08T09:14:35Z"
     },
@@ -191,7 +191,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 796,
+      "stars": 797,
       "forks": 176,
       "open_issues": 1,
       "license": null,
@@ -199,7 +199,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-10-07T08:42:33Z",
+      "updated_at": "2026-10-08T22:35:00Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -219,7 +219,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1876,
+      "stars": 1877,
       "forks": 126,
       "open_issues": 11,
       "license": "MIT",
@@ -227,7 +227,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-10-06T13:23:28Z",
+      "updated_at": "2026-10-08T22:35:08Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -239,7 +239,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2597,
+      "stars": 2598,
       "forks": 192,
       "open_issues": 11,
       "license": "MIT",
@@ -247,7 +247,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-10-07T15:18:59Z",
+      "updated_at": "2026-10-08T20:32:18Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15599,
+      "stars": 15601,
       "forks": 1056,
       "open_issues": 66,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-08T09:06:56Z",
-      "updated_at": "2026-10-08T13:11:42Z",
+      "pushed_at": "2026-10-08T16:25:37Z",
+      "updated_at": "2026-10-08T18:35:03Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
