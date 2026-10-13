@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-13T00:38:00Z",
+  "generated_at": "2026-10-13T14:09:30Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -56,7 +56,7 @@
       "topics": [],
       "stars": 6,
       "forks": 3,
-      "open_issues": 3,
+      "open_issues": 5,
       "license": "MIT",
       "homepage": "",
       "archived": false,
@@ -111,7 +111,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 109,
+      "stars": 110,
       "forks": 15,
       "open_issues": 1,
       "license": "NOASSERTION",
@@ -119,7 +119,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-07-15T17:11:35Z",
-      "updated_at": "2026-10-09T17:45:08Z",
+      "updated_at": "2026-10-13T01:42:28Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -133,13 +133,13 @@
       "topics": [],
       "stars": 67,
       "forks": 12,
-      "open_issues": 1,
+      "open_issues": 0,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-12T19:50:22Z",
-      "updated_at": "2026-10-12T19:50:28Z",
+      "pushed_at": "2026-10-13T04:49:33Z",
+      "updated_at": "2026-10-13T04:49:37Z",
       "created_at": "2026-01-30T17:23:47Z",
       "starred_at": "2026-04-08T09:14:41Z"
     },
@@ -219,7 +219,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1876,
+      "stars": 1877,
       "forks": 126,
       "open_issues": 11,
       "license": "MIT",
@@ -227,7 +227,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-10-12T01:01:42Z",
+      "updated_at": "2026-10-13T13:28:16Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15646,
-      "forks": 1057,
-      "open_issues": 70,
+      "stars": 15652,
+      "forks": 1059,
+      "open_issues": 71,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-12T11:01:00Z",
-      "updated_at": "2026-10-12T19:10:25Z",
+      "pushed_at": "2026-10-13T07:37:04Z",
+      "updated_at": "2026-10-13T13:05:08Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
