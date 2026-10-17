@@ -36,9 +36,9 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 
 - Owner: `354685856-sn`
 - Total stars: `10`
-- Generated: `2026-10-17T04:23:11Z`
+- Generated: `2026-10-17T10:41:37Z`
 - Languages: TypeScript (4), Python (4), Unknown (1), Shell (1)
-- HTTP date: `Sat, 17 Oct 2026 04:23:11 +0000`
+- HTTP date: `Sat, 17 Oct 2026 10:41:37 +0000`
 
 ## Latest Stars
 
@@ -53,7 +53,7 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 | [coleam00/second-brain-starter](https://github.com/coleam00/second-brain-starter) | Unknown | 808 | Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant |
 | [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | Shell | 1880 | A complete starter kit for an Obsidian + Claude Code personal knowledge management system. |
 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | Python | 2598 | - |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 15698 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 15701 | An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault |
 
 ## Contract
 
