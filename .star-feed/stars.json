@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-18T15:50:38Z",
+  "generated_at": "2026-10-18T20:40:44Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -220,7 +220,7 @@
         "second-brain"
       ],
       "stars": 1882,
-      "forks": 137,
+      "forks": 141,
       "open_issues": 11,
       "license": "MIT",
       "homepage": "",
@@ -269,15 +269,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15718,
+      "stars": 15720,
       "forks": 1062,
-      "open_issues": 75,
+      "open_issues": 77,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-10-18T12:38:11Z",
-      "updated_at": "2026-10-18T12:29:05Z",
+      "updated_at": "2026-10-18T18:08:26Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
