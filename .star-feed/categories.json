@@ -1,7 +1,14 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-10-19T13:11:16Z",
+  "generated_at": "2026-10-19T22:19:53Z",
   "by_language": {
+    "JavaScript": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      }
+    ],
     "Python": [
       {
         "full_name": "jremick/codexmaxxing",
@@ -88,6 +95,20 @@
         "description": "A complete starter kit for an Obsidian + Claude Code personal knowledge management system."
       }
     ],
+    "awesome": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      }
+    ],
+    "awesome-list": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      }
+    ],
     "claude-code": [
       {
         "full_name": "ballred/obsidian-claude-pkm",
@@ -112,6 +133,13 @@
         "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
       }
     ],
+    "deepseek-harness": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      }
+    ],
     "desktop-app": [
       {
         "full_name": "xingranya/GitHub-Stars-AI-Tools",
@@ -124,6 +152,20 @@
         "full_name": "jremick/codexmaxxing",
         "url": "https://github.com/jremick/codexmaxxing",
         "description": "Guides and resources for getting more out of Codex in agentic work"
+      }
+    ],
+    "dsh": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      }
+    ],
+    "dsh-plugin": [
+      {
+        "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
+        "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+        "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
       }
     ],
     "github-stars": [
