@@ -36,15 +36,15 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 
 - Owner: `354685856-sn`
 - Total stars: `11`
-- Generated: `2026-10-20T21:35:49Z`
+- Generated: `2026-10-21T04:43:42Z`
 - Languages: TypeScript (4), Python (4), JavaScript (1), Unknown (1), Shell (1)
-- HTTP date: `Tue, 20 Oct 2026 21:35:49 +0000`
+- HTTP date: `Wed, 21 Oct 2026 04:43:42 +0000`
 
 ## Latest Stars
 
 | Repository | Language | Stars | Description |
 | --- | --- | ---: | --- |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | JavaScript | 19726 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | JavaScript | 19774 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [DifTorHeSmushma/oracle-speakflow](https://github.com/DifTorHeSmushma/oracle-speakflow) | TypeScript | 6 | Hands-free speech-to-text that pastes where you type — for admins, teachers, writers, developers, and anyone who dictates daily. Windows shipped; macOS CI beta; Linux CI package. MIT. |
 | [jremick/codexmaxxing](https://github.com/jremick/codexmaxxing) | Python | 1 | Guides and resources for getting more out of Codex in agentic work |
 | [xingranya/GitHub-Stars-AI-Tools](https://github.com/xingranya/GitHub-Stars-AI-Tools) | TypeScript | 111 | 本地优先的 GitHub Stars AI 桌面应用，可 AI 检索/解析已 Star 项目。Local-first AI desktop app for GitHub Stars. |

@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-10-20T21:35:49Z",
+  "generated_at": "2026-10-21T04:43:42Z",
   "by_language": {
     "JavaScript": [
       {
@@ -138,6 +138,11 @@
         "full_name": "awesome-dsh-plugin/awesome-dsh-plugin",
         "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
         "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表"
+      },
+      {
+        "full_name": "YishenTu/claudian",
+        "url": "https://github.com/YishenTu/claudian",
+        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
       }
     ],
     "desktop-app": [
