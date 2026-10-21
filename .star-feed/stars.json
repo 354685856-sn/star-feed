@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-21T17:10:31Z",
+  "generated_at": "2026-10-21T21:41:19Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 19896,
-      "forks": 4801,
-      "open_issues": 267,
+      "stars": 19907,
+      "forks": 4813,
+      "open_issues": 159,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-21T16:50:10Z",
-      "updated_at": "2026-10-21T17:01:13Z",
+      "pushed_at": "2026-10-21T20:24:26Z",
+      "updated_at": "2026-10-21T20:55:37Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -163,7 +163,7 @@
       "description": "Your AI pair programmer's memory, synced to Obsidian",
       "language": "Python",
       "topics": [],
-      "stars": 84,
+      "stars": 85,
       "forks": 16,
       "open_issues": 0,
       "license": "MIT",
@@ -171,7 +171,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-10-21T15:58:22Z",
-      "updated_at": "2026-10-21T15:52:58Z",
+      "updated_at": "2026-10-21T20:32:56Z",
       "created_at": "2026-01-30T17:23:47Z",
       "starred_at": "2026-04-08T09:14:41Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15755,
+      "stars": 15756,
       "forks": 1064,
-      "open_issues": 74,
+      "open_issues": 77,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-10-21T16:15:28Z",
-      "updated_at": "2026-10-21T16:34:57Z",
+      "updated_at": "2026-10-21T21:18:03Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
