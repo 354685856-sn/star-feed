@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-10-30T22:16:54Z",
+  "generated_at": "2026-10-31T05:38:07Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 21635,
-      "forks": 5982,
-      "open_issues": 220,
+      "stars": 21671,
+      "forks": 6017,
+      "open_issues": 287,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-30T20:38:07Z",
-      "updated_at": "2026-10-30T22:11:12Z",
+      "pushed_at": "2026-10-30T23:21:26Z",
+      "updated_at": "2026-10-31T05:34:39Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -223,7 +223,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 857,
+      "stars": 858,
       "forks": 181,
       "open_issues": 1,
       "license": null,
@@ -231,7 +231,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-10-30T21:47:51Z",
+      "updated_at": "2026-10-30T22:53:15Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15862,
+      "stars": 15865,
       "forks": 1081,
-      "open_issues": 75,
+      "open_issues": 71,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-10-30T20:26:12Z",
-      "updated_at": "2026-10-30T21:47:59Z",
+      "pushed_at": "2026-10-31T05:25:37Z",
+      "updated_at": "2026-10-31T05:25:40Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
