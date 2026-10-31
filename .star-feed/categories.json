@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed-categories/v1",
-  "generated_at": "2026-10-31T12:25:27Z",
+  "generated_at": "2026-10-31T21:30:50Z",
   "by_language": {
     "JavaScript": [
       {
@@ -57,7 +57,7 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "Unknown": [
@@ -118,7 +118,7 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "codex": [
@@ -130,7 +130,7 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "deepseek-harness": [
@@ -142,7 +142,7 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "desktop-app": [
@@ -191,14 +191,14 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "ide": [
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "knowledge-base": [
@@ -231,28 +231,28 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "obsidian-plugin": [
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "opencode": [
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "pi": [
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "pkm": [
@@ -271,7 +271,7 @@
       {
         "full_name": "YishenTu/claudian",
         "url": "https://github.com/YishenTu/claudian",
-        "description": "An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault"
+        "description": "An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault."
       }
     ],
     "prompt-engineering": [
