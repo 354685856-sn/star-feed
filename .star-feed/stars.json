@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-11-01T21:59:44Z",
+  "generated_at": "2026-11-02T05:59:05Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 21899,
-      "forks": 6222,
-      "open_issues": 230,
+      "stars": 21938,
+      "forks": 6270,
+      "open_issues": 304,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-01T20:26:46Z",
-      "updated_at": "2026-11-01T20:26:50Z",
+      "pushed_at": "2026-11-01T23:23:06Z",
+      "updated_at": "2026-11-02T05:23:24Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -204,7 +204,7 @@
       "language": "Python",
       "topics": [],
       "stars": 1314,
-      "forks": 331,
+      "forks": 332,
       "open_issues": 23,
       "license": null,
       "homepage": "",
@@ -223,7 +223,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 859,
+      "stars": 860,
       "forks": 184,
       "open_issues": 1,
       "license": null,
@@ -231,7 +231,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-10-31T22:01:17Z",
+      "updated_at": "2026-11-02T02:59:02Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -251,7 +251,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1886,
+      "stars": 1887,
       "forks": 125,
       "open_issues": 11,
       "license": "MIT",
@@ -259,7 +259,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-10-30T12:33:35Z",
+      "updated_at": "2026-11-02T00:30:32Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15887,
+      "stars": 15889,
       "forks": 1082,
-      "open_issues": 118,
+      "open_issues": 137,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-01T16:20:33Z",
-      "updated_at": "2026-11-01T18:51:46Z",
+      "pushed_at": "2026-11-02T05:24:29Z",
+      "updated_at": "2026-11-02T05:51:23Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
