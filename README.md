@@ -36,15 +36,15 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 
 - Owner: `354685856-sn`
 - Total stars: `10`
-- Generated: `2026-11-08T05:58:13Z`
+- Generated: `2026-11-08T13:22:07Z`
 - Languages: Python (4), TypeScript (3), JavaScript (1), Unknown (1), Shell (1)
-- HTTP date: `Sun, 08 Nov 2026 05:58:13 +0000`
+- HTTP date: `Sun, 08 Nov 2026 13:22:07 +0000`
 
 ## Latest Stars
 
 | Repository | Language | Stars | Description |
 | --- | --- | ---: | --- |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | JavaScript | 23617 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | JavaScript | 23680 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
 | [DifTorHeSmushma/oracle-speakflow](https://github.com/DifTorHeSmushma/oracle-speakflow) | TypeScript | 6 | Hands-free speech-to-text that pastes where you type — for admins, teachers, writers, developers, and anyone who dictates daily. Windows shipped; macOS CI beta; Linux CI package. MIT. |
 | [jremick/codexmaxxing](https://github.com/jremick/codexmaxxing) | Python | 1 | Guides and resources for getting more out of Codex in agentic work |
 | [crimeacs/claude-note](https://github.com/crimeacs/claude-note) | Python | 88 | Your AI pair programmer's memory, synced to Obsidian |
@@ -53,7 +53,7 @@ python3 scripts/validate_import.py https://github.com/354685856-sn/star-feed
 | [coleam00/second-brain-starter](https://github.com/coleam00/second-brain-starter) | Unknown | 879 | Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant |
 | [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) | Shell | 1892 | A complete starter kit for an Obsidian + Claude Code personal knowledge management system. |
 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | Python | 2605 | - |
-| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 15939 | An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault. |
+| [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | 15942 | An Obsidian plugin that embeds Claude Code, Codex and other agents as an AI collaborator in your vault. |
 
 ## Contract
 
