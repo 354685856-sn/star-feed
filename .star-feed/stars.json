@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-11-10T07:14:57Z",
+  "generated_at": "2026-11-10T19:42:02Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 24107,
-      "forks": 7717,
-      "open_issues": 402,
+      "stars": 24193,
+      "forks": 7819,
+      "open_issues": 313,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-10T07:11:25Z",
-      "updated_at": "2026-11-10T07:14:50Z",
+      "pushed_at": "2026-11-10T18:54:10Z",
+      "updated_at": "2026-11-10T19:26:58Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -143,7 +143,7 @@
         "sqlite",
         "tauri"
       ],
-      "stars": 116,
+      "stars": 117,
       "forks": 16,
       "open_issues": 1,
       "license": "NOASSERTION",
@@ -151,7 +151,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-11-09T11:14:13Z",
-      "updated_at": "2026-11-10T02:40:54Z",
+      "updated_at": "2026-11-10T15:39:50Z",
       "created_at": "2026-07-04T18:03:56Z",
       "starred_at": "2026-07-09T07:07:04Z"
     },
@@ -223,7 +223,7 @@
       "description": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
       "language": "Unknown",
       "topics": [],
-      "stars": 885,
+      "stars": 888,
       "forks": 188,
       "open_issues": 1,
       "license": null,
@@ -231,7 +231,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-06-09T16:16:46Z",
-      "updated_at": "2026-11-10T04:48:35Z",
+      "updated_at": "2026-11-10T19:36:15Z",
       "created_at": "2026-03-29T19:43:10Z",
       "starred_at": "2026-04-08T09:14:32Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15956,
-      "forks": 1091,
-      "open_issues": 106,
+      "stars": 15963,
+      "forks": 1093,
+      "open_issues": 108,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-10T05:25:12Z",
-      "updated_at": "2026-11-10T05:25:21Z",
+      "pushed_at": "2026-11-10T17:28:22Z",
+      "updated_at": "2026-11-10T17:09:41Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
