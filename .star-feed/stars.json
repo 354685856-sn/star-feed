@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-11-12T15:11:50Z",
+  "generated_at": "2026-11-12T23:37:01Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 24426,
-      "forks": 8118,
-      "open_issues": 547,
+      "stars": 24445,
+      "forks": 8143,
+      "open_issues": 323,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-12T06:48:40Z",
-      "updated_at": "2026-11-12T15:02:32Z",
+      "pushed_at": "2026-11-12T23:30:16Z",
+      "updated_at": "2026-11-12T23:29:57Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -251,7 +251,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1897,
+      "stars": 1898,
       "forks": 129,
       "open_issues": 11,
       "license": "MIT",
@@ -259,7 +259,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-11-12T11:35:16Z",
+      "updated_at": "2026-11-12T19:04:47Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15977,
-      "forks": 1093,
-      "open_issues": 67,
+      "stars": 15979,
+      "forks": 1095,
+      "open_issues": 68,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-11-12T07:43:51Z",
-      "updated_at": "2026-11-12T10:18:00Z",
+      "updated_at": "2026-11-12T20:22:06Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
