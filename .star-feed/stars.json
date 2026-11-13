@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-11-12T23:37:01Z",
+  "generated_at": "2026-11-13T06:42:00Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 24445,
-      "forks": 8143,
-      "open_issues": 323,
+      "stars": 24495,
+      "forks": 8192,
+      "open_issues": 425,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-12T23:30:16Z",
-      "updated_at": "2026-11-12T23:29:57Z",
+      "pushed_at": "2026-11-12T23:43:02Z",
+      "updated_at": "2026-11-13T06:42:00Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -251,7 +251,7 @@
         "productivity",
         "second-brain"
       ],
-      "stars": 1898,
+      "stars": 1900,
       "forks": 129,
       "open_issues": 11,
       "license": "MIT",
@@ -259,7 +259,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-02-18T02:01:08Z",
-      "updated_at": "2026-11-12T19:04:47Z",
+      "updated_at": "2026-11-13T03:26:23Z",
       "created_at": "2025-08-07T22:09:42Z",
       "starred_at": "2026-04-08T09:14:29Z"
     },
@@ -271,7 +271,7 @@
       "description": "",
       "language": "Python",
       "topics": [],
-      "stars": 2608,
+      "stars": 2609,
       "forks": 194,
       "open_issues": 11,
       "license": "MIT",
@@ -279,7 +279,7 @@
       "archived": false,
       "fork": false,
       "pushed_at": "2026-04-11T22:44:28Z",
-      "updated_at": "2026-11-12T11:35:24Z",
+      "updated_at": "2026-11-13T03:26:38Z",
       "created_at": "2025-09-12T00:40:48Z",
       "starred_at": "2026-04-08T09:14:26Z"
     },
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15979,
+      "stars": 15978,
       "forks": 1095,
-      "open_issues": 68,
+      "open_issues": 70,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-12T07:43:51Z",
-      "updated_at": "2026-11-12T20:22:06Z",
+      "pushed_at": "2026-11-13T03:55:32Z",
+      "updated_at": "2026-11-13T04:38:31Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
