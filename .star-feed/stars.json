@@ -1,6 +1,6 @@
 {
   "schema_version": "star-feed/v1",
-  "generated_at": "2026-11-14T17:58:57Z",
+  "generated_at": "2026-11-14T22:22:05Z",
   "owner": "354685856-sn",
   "source": {
     "type": "github-stars",
@@ -66,15 +66,15 @@
         "dsh",
         "dsh-plugin"
       ],
-      "stars": 24673,
-      "forks": 8399,
-      "open_issues": 367,
+      "stars": 24679,
+      "forks": 8405,
+      "open_issues": 342,
       "license": "CC0-1.0",
       "homepage": "https://awesome-dsh-plugin.com",
       "archived": false,
       "fork": false,
-      "pushed_at": "2026-11-14T17:33:47Z",
-      "updated_at": "2026-11-14T17:57:09Z",
+      "pushed_at": "2026-11-14T20:21:25Z",
+      "updated_at": "2026-11-14T21:18:13Z",
       "created_at": "2026-08-13T13:55:31Z",
       "starred_at": "2026-10-19T14:05:03Z"
     },
@@ -184,7 +184,7 @@
       "language": "TypeScript",
       "topics": [],
       "stars": 362,
-      "forks": 55,
+      "forks": 56,
       "open_issues": 19,
       "license": "0BSD",
       "homepage": "",
@@ -302,15 +302,15 @@
         "pi",
         "productivity"
       ],
-      "stars": 15990,
+      "stars": 15992,
       "forks": 1095,
-      "open_issues": 43,
+      "open_issues": 42,
       "license": "MIT",
       "homepage": "",
       "archived": false,
       "fork": false,
       "pushed_at": "2026-11-14T16:39:39Z",
-      "updated_at": "2026-11-14T16:20:19Z",
+      "updated_at": "2026-11-14T21:28:34Z",
       "created_at": "2025-12-05T17:58:26Z",
       "starred_at": "2026-04-08T09:14:22Z"
     }
